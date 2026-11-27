@@ -1,0 +1,149 @@
+{
+ "name": "LibreTV 自动源（2026-11-27 更新）",
+ "version": 1,
+ "homepage": "https://github.com/LibreSpark/LibreTV",
+ "url": "https://cdn.jsdelivr.net/gh/cailipc/libretv-tvbox@main/tvbox.json",
+ "sites": [
+  {
+   "key": "s01_金鹰资源",
+   "name": "金鹰资源",
+   "type": 3,
+   "api": "http://jyzyapi.com/provide/vod/from/jinyingm3u8",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": ""
+  },
+  {
+   "key": "s02_红牛资源",
+   "name": "红牛资源",
+   "type": 3,
+   "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": ""
+  },
+  {
+   "key": "s03_最大",
+   "name": "最大",
+   "type": 3,
+   "api": "http://zuidazy.me/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": ""
+  },
+  {
+   "key": "s04_U酷影视",
+   "name": "U酷影视",
+   "type": 3,
+   "api": "https://api.ukuapi88.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": ""
+  },
+  {
+   "key": "s05_量子",
+   "name": "量子",
+   "type": 3,
+   "api": "https://cj.lziapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": ""
+  },
+  {
+   "key": "s06_如意资源",
+   "name": "如意资源",
+   "type": 3,
+   "api": "https://cj.rycjapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": ""
+  },
+  {
+   "key": "s07_魔都资源",
+   "name": "魔都资源",
+   "type": 3,
+   "api": "https://www.mdzyapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": ""
+  },
+  {
+   "key": "s08_非凡资源",
+   "name": "非凡资源",
+   "type": 3,
+   "api": "https://api.ffzyapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": ""
+  },
+  {
+   "key": "s09_暴风资源",
+   "name": "暴风资源",
+   "type": 3,
+   "api": "https://bfzyapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": ""
+  },
+  {
+   "key": "s10_360",
+   "name": "360",
+   "type": 3,
+   "api": "https://360zy.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": ""
+  },
+  {
+   "key": "s11_猫眼资源",
+   "name": "猫眼资源",
+   "type": 3,
+   "api": "https://api.maoyanapi.top/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": ""
+  },
+  {
+   "key": "s12_电影天堂",
+   "name": "电影天堂",
+   "type": 3,
+   "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": ""
+  },
+  {
+   "key": "s13_爱奇艺",
+   "name": "爱奇艺",
+   "type": 3,
+   "api": "https://iqiyizyapi.com/api.php/provide/vod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": ""
+  }
+ ],
+ "lives": [
+  {
+   "name": "精选直播",
+   "type": 0,
+   "url": "https://cdn.jsdelivr.net/gh/cailipc/libretv-tvbox@main/live.m3u",
+   "playerType": 1
+  }
+ ],
+ "spider": "",
+ "wallpaper": "",
+ "ads": []
+}
